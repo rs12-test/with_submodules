@@ -1,0 +1,3 @@
+[submodule "simple1"]
+	path = simple1
+	url = git@github.com:rs12-test/simple1.git
