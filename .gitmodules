@@ -1,3 +1,6 @@
 [submodule "simple1"]
 	path = simple1
 	url = git@github.com:rs12-test/simple1.git
+[submodule "simple2"]
+	path = simple2
+	url = git@github.com:rs12-test/simple2.git
